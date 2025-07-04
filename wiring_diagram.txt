@@ -1,0 +1,11 @@
+RASPBERRY PI (GPIO PINOUT)          DHT11 SENSOR
+───────────────────────────────────────────────────
+      3.3V (Pin 1)   ─────────────► VCC (Red)
+      GPIO17 (Pin 11) ────────────► DATA (Yellow)
+      GND (Pin 9)    ─────────────► GND (Black)
+      
+LCD (I2C 16x2):
+      SDA (Pin 3)    ─────────────► SDA
+      SCL (Pin 5)    ─────────────► SCL
+      GND (Pin 6)    ─────────────► GND
+      5V (Pin 2)     ─────────────► VCC
